@@ -8,6 +8,8 @@ Forty is FPV frame designed to carry compact cinema cameras(YES, FX3! NO, FX6!),
 
 Plus a sick 3dprintable super structure(v2) with transparent part and RGB LED, the performance of the machine be boosted by 20% for sure!!!(doge)
 
+Special Thanks to **BDZZ-FPV** for helping me designing this frame!!!~
+
 **Features are listed below:**
 - Support 19x19mm motor mounting
   - ![1_MotorMount](Images/Previews/1_MotorMount.png)
