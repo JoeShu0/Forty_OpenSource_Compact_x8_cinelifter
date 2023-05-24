@@ -1,8 +1,7 @@
-[TOC]
 ## Forty  
 The opensource x8/x4 compact cinelifter frame 
-![](Images\Previews\0_Main.png)
-![](Images\Previews\0_Main_01.png)
+![0_Main](Images/Previews/0_Main.png)
+![0_Main_01](Images/Previews/0_Main_01.png)
 
 ### Description
 Forty is FPV frame designed to carry compact cinema cameras(YES, FX3! NO, FX6!), ultilizing the truss structure for maximum rigidity within reasonable weight.
