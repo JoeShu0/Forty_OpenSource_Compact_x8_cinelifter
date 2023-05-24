@@ -20,6 +20,7 @@ shared parts including all the base frame and landing gears
   - ![BasePlate](Images/Parts/BasePlate.png)
 - TopPlate x 1
   - ![TopPlate](Images/Parts/TopPlate.png)
+
 *optional:*
 - BatteryLandingGear x 1
   - ![BatteryLandingGear](Images/Parts/BatteryLandingGear.png)
@@ -29,6 +30,7 @@ shared parts including all the base frame and landing gears
   - ![TM_xt90](Images/Parts/TM_xt90.png)
 - TM_Topcover x 1
   - ![TM_Topcover](Images/Parts/TM_Topcover.png)
+
 *optional:*
 - BLG_Feet_3PT x 4
   - ![BLG_Feet_3PT](Images/Parts/BLG_Feet_3PT.png)
@@ -81,7 +83,7 @@ Including a little more aerodynamic HD camera mount, a sick back hull to mount g
 - H02_CameraMountPlate x 1
   - ![H02_CameraMountPlate](Images/Parts/H02_CameraMountPlate.png)
 - H02_support01 x 2
-  - ![CM_SuppoH02_support01rtPlate](Images/Parts/CM_SuppoH02_support01rtPlate.png)
+  - ![H02_support01](Images/Parts/H02_support01.png)
 
 **Printable Parts**
 - H02_FrontalShell x 1
