@@ -1,4 +1,4 @@
-## Forty  mounting
+## Forty
 The opensource x8/x4 compact cinelifter frame 
 ![0_Main](Images/Previews/0_Main.png)
 ![0_Main_01](Images/Previews/0_Main_01.png)
