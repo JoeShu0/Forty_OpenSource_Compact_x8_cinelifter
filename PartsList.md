@@ -5,7 +5,7 @@ V1 makes everything simple and is easy for maintenance, camera angle ranges form
 V2 is more stylized, but the printable part are all  weirdly shaped, making 3d printing them not a easy task, Some printable parts even have to take structure load. But hey, at least it looks good, right?
 
 Due to compact design of the frame, both version don't have a big space for HD camera. So compact cinema cameras are suggested, for bigger camera like FX6 or Red komodo, **they will fit**, but watch out for **Vibration absorbing saturation** and **Prop Striking**
-[TOC]
+
 ### FrameParts
 #### shared parts
 shared parts including all the base frame and landing gears
@@ -13,31 +13,31 @@ shared parts including all the base frame and landing gears
 (*part name* x *copies needed*)
 **Carbon Fiber Plate**
 - Arm x 8
-  - ![](Images\Parts\Arm.png)
+  - ![Arm](Images/Parts/Arm.png)
 - MotorMountPlate x 8
-  - ![](Images\Parts\MotorMountPlate.png)
+  - ![MotorMountPlate](Images/Parts/MotorMountPlate.png)
 - BasePlate x 1
-  - ![](Images\Parts\BasePlate.png)
+  - ![BasePlate](Images/Parts/BasePlate.png)
 - TopPlate x 1
-  - ![](Images\Parts\TopPlate.png)
+  - ![TopPlate](Images/Parts/TopPlate.png)
 *optional:*
 - BatteryLandingGear x 1
-  - ![](Images\Parts\BatteryLandingGear.png)
+  - ![BatteryLandingGear](Images/Parts/BatteryLandingGear.png)
 
 **Printable Parts**
 - TM_xt90 x 1
-  - ![](Images\Parts\TM_xt90.png)
+  - ![TM_xt90](Images/Parts/TM_xt90.png)
 - TM_Topcover x 1
-  - ![](Images\Parts\TM_Topcover.png)
+  - ![TM_Topcover](Images/Parts/TM_Topcover.png)
 *optional:*
 - BLG_Feet_3PT x 4
-  - ![](Images\Parts\BLG_Feet_3PT.png)
+  - ![BLG_Feet_3PT](Images/Parts/BLG_Feet_3PT.png)
 - LG_3DP_Front x 1 
-  - ![](Images\Parts\LG_3DP_Front.png)
+  - ![LG_3DP_Front](Images/Parts/LG_3DP_Front.png)
 - LG_3DP_Left x 1
-  - ![](Images\Parts\LG_3DP_Left.png)
+  - ![LG_3DP_Left](Images/Parts/LG_3DP_Left.png)
 - LG_3DP_Right x 1
-  - ![](Images\Parts\LG_3DP_Right.png)
+  - ![LG_3DP_Right](Images/Parts/LG_3DP_Right.png)
 
 #### V1 parts
 V1 parts including the simple HD Camera mount , frontal DJO O3 camera mount, side m10 GPS and SMA video ant mount.
@@ -45,30 +45,30 @@ V1 parts including the simple HD Camera mount , frontal DJO O3 camera mount, sid
 (*part name* x *copies needed*)
 **Carbon Fiber Plate**
 - CameraDamppedBasePlate x 1
-  - ![](Images\Parts\CameraDamppedBasePlate.png)
+  - ![CameraDamppedBasePlate](Images/Parts/CameraDamppedBasePlate.png)
 - CM_MountPlate x 1
-  - ![](Images\Parts\CM_MountPlate.png)
+  - ![CM_MountPlate](Images/Parts/CM_MountPlate.png)
 - CM_SupportPlate x 2
-  - ![](Images\Parts\CM_SupportPlate.png)
+  - ![CM_SupportPlate](Images/Parts/CM_SupportPlate.png)
 - CMB_SupportPlate x 2
-  - ![](Images\Parts\CMB_SupportPlate.png)
+  - ![CMB_SupportPlate](Images/Parts/CMB_SupportPlate.png)
 
 **Printable Parts**
 - CM_3DP_Support01 x 2
-  - ![](Images\Parts\CM_3DP_Support01.png)
+  - ![CM_3DP_Support01](Images/Parts/CM_3DP_Support01.png)
 - CM_3DP_Support02 x 2
-  - ![](Images\Parts\CM_3DP_Support02.png)
+  - ![CM_3DP_Support02](Images/Parts/CM_3DP_Support02.png)
 - CMB_3DP_Support x 1
-  - ![](Images\Parts\CMB_3DP_Support.png)
+  - ![CMB_3DP_Support](Images/Parts/CMB_3DP_Support.png)
 - Hull_01 x 1
-  - ![](Images\Parts\Hull_01.png)
+  - ![Hull_01](Images/Parts/Hull_01.png)
 - M10_25mm_SMA x 1
-  - ![](Images\Parts\M10_25mm_SMA.png)
+  - ![M10_25mm_SMA](Images/Parts/M10_25mm_SMA.png)
 - TBS_Ant_SMA x 1
-  - ![](Images\Parts\TBS_Ant_SMA.png)
+  - ![TBS_Ant_SMA](Images/Parts/TBS_Ant_SMA.png)
 - O3CM_Left x 1
 - O3CM_Right x 1
-  - ![](Images\Parts\O3CM.png)
+  - ![O3CM](Images/Parts/O3CM.png)
 
 #### V2 parts
 V1 parts is for someone who want unique look
@@ -77,30 +77,30 @@ Including a little more aerodynamic HD camera mount, a sick back hull to mount g
 (*part name* x *copies needed*)
 **Carbon Fiber Plate**
 - CameraDamppedBasePlate02 x 1
-  - ![](Images\Parts\CameraDamppedBasePlate02.png)
+  - ![CameraDamppedBasePlate02](Images/Parts/CameraDamppedBasePlate02.png)
 - H02_CameraMountPlate x 1
-  - ![](Images\Parts\H02_CameraMountPlate.png)
+  - ![H02_CameraMountPlate](Images/Parts/H02_CameraMountPlate.png)
 - H02_support01 x 2
-  - ![](Images\Parts\CM_SuppoH02_support01rtPlate.png)
+  - ![CM_SuppoH02_support01rtPlate](Images/Parts/CM_SuppoH02_support01rtPlate.png)
 
 **Printable Parts**
 - H02_FrontalShell x 1
-  - ![](Images\Parts\H02_FrontalShell.png)
+  - ![H02_FrontalShell](Images/Parts/H02_FrontalShell.png)
 - H02_CameraMount x 1
-  - ![](Images\Parts\H02_CameraMount.png)
+  - ![H02_CameraMount](Images/Parts/H02_CameraMount.png)
 - H02_BackCover x 1
-  - ![](Images\Parts\H02_BackCover.png)
+  - ![H02_BackCover](Images/Parts/H02_BackCover.png)
 - H02_Transparent x 1
-  - ![](Images\Parts\H02_Transparent.png)
+  - ![H02_Transparent](Images/Parts/H02_Transparent.png)
 - SH_Mount_L x 1
 - SH_Mount_R x 1
-  - ![](Images\Parts\SH_Mount.png)
+  - ![SH_Mount](Images/Parts/SH_Mount.png)
 - SH_Transparent_Low_L x 1
 - SH_Transparent_Low_R x 1
-  - ![](Images\Parts\SH_Transparent_Low.png)
+  - ![SH_Transparent_Low](Images/Parts/SH_Transparent_Low.png)
 - SH_Transparent_Top_L x 1
 - SH_Transparent_Top_R x 1
-  - ![](Images\Parts\SH_Transparent_Top.png)
+  - ![SH_Transparent_Top](Images/Parts/SH_Transparent_Top.png)
 
 
 ### Other Important Parts
