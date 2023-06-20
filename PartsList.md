@@ -108,4 +108,48 @@ Including a little more aerodynamic HD camera mount, a sick back hull to mount g
 ### Other Important Parts
 ### bolts
 this frame uses m3 and m4 bolt and nuts
-- m4_
+main body
+- m3x20mm stand_offs (outter diameter 5mm) x 20 
+- m3x8mm sunk_head_bolt x 40
+- m3 sunk_head_washer x20
+motor plate
+- m3x10mm stand_offs (outter diameter 5mm) x 12
+- m3x8mm sun_khead_bolt x 24
+XT90EM mount
+- m3x16mm sunk_head_bolt x 1
+- m3x25mm sunk_head_bolt x 1
+- m3 self_lock_nut x 2
+XT60EM mount
+- m3x16mm sunk_head_bolt x 4
+landing gear
+- m3 self_lock_nut x 5
+- m3x20mm sunk_head_bolt x 4
+- m3x10mm sunk_head_bolt x 9
+back cover mount
+- m3x10mm sunk_head_bolt x 4
+- m3 self_lock_nut x 4
+frantal shell mount
+- m3x20mm sunk_head_bolt x 4
+- m3x40mm sunk_head_bolt x 2
+- m3x12mm sunk_head_bolt x 2
+- m3 self_lock_nut x 8
+frantal shell inner plate mount
+- m3x25mm sunk_head_bolt x 6
+- m3 self_lock_nut x 6
+camera mount hinge
+- m4x22mm bolt x 2
+- m4x85mm bolt x 2
+- m4 self_lock_nut x 3
+camera plate mount
+- m3x8mm sunk_head_bolt x 2
+- m3x12mm sunk_head_bolt x 2
+- m3x35mm sunk_head_bolt x 2
+- m3 self_lock_nut x 6
+### motors
+- brotherhobby 2812 900kv motor x 8
+### miscs
+- xt90em x 1
+- xt60em x 2
+- DJI O3 air unit x 1
+- Ipex to SMA 150mm extention cord x2
+- LHCP Rush Cherry Long SMA x 2
