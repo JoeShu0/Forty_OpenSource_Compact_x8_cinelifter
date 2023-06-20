@@ -153,3 +153,12 @@ this frame uses m3 and m4 bolt and nuts
 - DJI O3 air unit x 1
 - Ipex to SMA 150mm extention cord x2
 - LHCP Rush Cherry Long SMA x 2
+- Vibration Damping Balls 300g x 6
+- MicroAir M10 GPS 25mmx25mmx8mm  x 1
+- TBS CRSF Receiver x 1
+- flight controller (support 8 motor out) x 1
+- 4 in 1 ESC x 2 or * in 1 ESC x 1
+- BAT straps 250mm -x 3
+### optional
+- ws2812 LEDs
+
