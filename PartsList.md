@@ -106,6 +106,7 @@ Including a little more aerodynamic HD camera mount, a sick back hull to mount g
 
 
 ### Other Important Parts
+Only for V2
 ### bolts
 this frame uses m3 and m4 bolt and nuts
 - main body
@@ -113,8 +114,8 @@ this frame uses m3 and m4 bolt and nuts
   - m3x8mm sunk_head_bolt x 40
   - m3 sunk_head_washer x20
 - motor plate
-  - m3x8mm stand_offs (outter diameter 5mm) x 12
-  - m3x8mm sun_khead_bolt x 24
+  - m3x8mm stand_offs (outter diameter 5mm) x 16 (12 if using v1.1 motor plate)
+  - m3x8mm sun_khead_bolt x 32 (24 if using v1.1 motor plate)
 - XT90EM mount
   - m3x16mm sunk_head_bolt x 1
   - m3x25mm sunk_head_bolt x 1
