@@ -115,13 +115,13 @@ this frame uses m3 and m4 bolt and nuts
   - m3 sunk_head_washer x20
 - motor plate
   - m3x8mm stand_offs (outter diameter 5mm) x 16 (12 if using v1.1 motor plate)
-  - m3x8mm sun_khead_bolt x 32 (24 if using v1.1 motor plate)
+  - m3x6mm sun_khead_bolt x 32 (24 if using v1.1 motor plate)
 - XT90EM mount
   - m3x16mm sunk_head_bolt x 1
   - m3x25mm sunk_head_bolt x 1
   - m3 self_lock_nut x 2
 - XT60EM mount
-  - m3x16mm sunk_head_bolt x 4
+  - m2.6x6mm sunk_head_bolt x 4
 - landing gear
   - m3 self_lock_nut x 5
   - m3x20mm sunk_head_bolt x 4
@@ -129,12 +129,12 @@ this frame uses m3 and m4 bolt and nuts
 - back cover mount
   - m3x10mm sunk_head_bolt x 4
   - m3 self_lock_nut x 4
-- frantal shell mount
+- frontal shell mount
   - m3x20mm sunk_head_bolt x 4
   - m3x40mm sunk_head_bolt x 2
   - m3x12mm sunk_head_bolt x 2
   - m3 self_lock_nut x 8
--frantal shell inner plate mount
+-frontal shell inner plate mount
   - m3x25mm sunk_head_bolt x 6
   - m3 self_lock_nut x 6
 - camera mount hinge
